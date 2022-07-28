@@ -6,12 +6,12 @@
 
 ### Education
 ---
-+ #### Fudan University
-&ensp;&ensp;&ensp;&ensp;*Bachelor of Theoretical and Applied Mechanics* *(from 2018.9 - 2023.6)*
++ #### Fudan University (2018.9 - 2023.6)
+&ensp;&ensp;&ensp;&ensp;*Bachelor of Theoretical and Applied Mechanics*
 &ensp;&ensp;&ensp;&ensp;
 ### Experience
 ---
-+ #### CCP Games
++ #### CCP Games (2022.2 - TBA)
     *Game Design Intern*</br>
     **Localization**: Help with testing the localization procedure of all ingame texts(texts in UI, scripts, tables)</br>
     **System Design**: Tutorials, Chatting Systems(for now)</br>
