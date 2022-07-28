@@ -7,7 +7,7 @@
 ### Education
 ---
 + #### Fudan University
-&ensp;&ensp;&ensp;&ensp;*Bachelor of Theoretical and Applied Mechanics*
+&ensp;&ensp;&ensp;&ensp;*Bachelor of Theoretical and Applied Mechanics* *(from 2018.9 - 2023.6)*
 &ensp;&ensp;&ensp;&ensp;
 ### Experience
 ---
