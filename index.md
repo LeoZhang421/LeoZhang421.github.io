@@ -24,12 +24,13 @@
 
 ### Skills & Certificates
 ---
-+ #### Softwares
++ #### Softwares&Tools
     Unity3D Editor</br>
     Perforce Helix Core</br>
     Microsoft Visio</br>
     Blender(basic modeling and geomotry nodes)</br>
-    Matlab(parameter identification and simple GUI)</br>
+    Matlab(parameter identification and simple GUI)
+    Jira</br>
 + #### Languages
     Python: Machine Learning(AR, VAR)</br>
     mysql: basic DDL and DQL</br>
