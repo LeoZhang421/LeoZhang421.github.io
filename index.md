@@ -29,7 +29,7 @@
     Perforce Helix Core</br>
     Microsoft Visio</br>
     Blender(basic modeling and geomotry nodes)</br>
-    Matlab(parameter identification and simple GUI)
+    Matlab(parameter identification and simple GUI)</br>
     Jira</br>
 + #### Languages
     Python: Machine Learning(AR, VAR)</br>
